@@ -4,11 +4,6 @@ This project scrapes game information from the Itch.io website. It gets game det
 
 ---
 
-## Project Structure
-
-
-
-
 ## 🚀 Features
 
 - Extracts filter options, sorting rules, and tags from Itch.io for targeted scraping
@@ -26,8 +21,7 @@ This project scrapes game information from the Itch.io website. It gets game det
   - `03_ScrapeApis.py — fetches data from the API URLs and saves the raw scraped game info`.
   - `04_CleanData.py — cleans and prepares the scraped data for use.`.
 
-- `Source/`:
-- `This folder holds the raw HTML file TagsHtmlBody.txt that is used to extract tag information`.
+- `Source/`  — This folder holds the raw HTML file TagsHtmlBody.txt that is used to extract tag information:
 
 
 - `data/`:
@@ -81,28 +75,32 @@ pip install -r requirements.txt
 
 ### 1: Generate filter, sorting, and tags config files
 
-```python 01_ScrapeConfig.py
+```bash
+python 01_ScrapeConfig.py
 ```
 Creates JSON config files (FilterOptions.json, SortingOptions.json, TagsOptions.json) in Data/config/..
 
 
 ### 2: Build the list of API URLs to scrape
 
-```python 02_BuildApis.py
+```bash
+python 02_BuildApis.py
 ```
 Generates apis.csv in Data/ containing all API endpoints based on configs.
 
 
 ### 3: Scrape game data from Itch.io APIs
 
-```python 03_ScrapeApis.py
+```bash
+python 03_ScrapeApis.py
 ```
 Fetches game data from APIs listed in apis.csv and saves raw data to Data/raw/ScrapedInformation.csv.
 
 
 ### 4: Clean and normalize scraped game data
 
-```python 04_CleanData.py
+```bash
+python 04_CleanData.py
 ```
 Processes and cleans the raw scraped data, saving the output to Data/cleaned/Cleaned_Data.csv.
 
