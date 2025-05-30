@@ -1,0 +1,2082 @@
+[
+    {
+        "label": "/span16-bit",
+        "href": "tag-16-bit"
+    },
+    {
+        "label": "/span1-bit",
+        "href": "tag-1-bit"
+    },
+    {
+        "label": "/span1GAM",
+        "href": "tag-1gam"
+    },
+    {
+        "label": "/span2D",
+        "href": "tag-2d"
+    },
+    {
+        "label": "/span3D",
+        "href": "tag-3d"
+    },
+    {
+        "label": "/span3D Platformer",
+        "href": "tag-3d-platformer"
+    },
+    {
+        "label": "/span4X",
+        "href": "tag-4x"
+    },
+    {
+        "label": "/span7dfps",
+        "href": "tag-7dfps"
+    },
+    {
+        "label": "/spanSeven Day Roguelike Challenge",
+        "href": "tag-seven-day-roguelike-challenge"
+    },
+    {
+        "label": "/span8-Bit",
+        "href": "tag-8-bit"
+    },
+    {
+        "label": "/spanAbstract",
+        "href": "tag-abstract"
+    },
+    {
+        "label": "/spanAction",
+        "href": "tag-action"
+    },
+    {
+        "label": "/spanAction-Adventure",
+        "href": "tag-action-adventure"
+    },
+    {
+        "label": "/spanAction RPG",
+        "href": "tag-action-rpg"
+    },
+    {
+        "label": "/spanAdventure",
+        "href": "tag-adventure"
+    },
+    {
+        "label": "/spanAI Generated",
+        "href": "tag-ai-generated"
+    },
+    {
+        "label": "/spanAliens",
+        "href": "tag-aliens"
+    },
+    {
+        "label": "/spanAlternate History",
+        "href": "tag-alternate-history"
+    },
+    {
+        "label": "/spanAltgame",
+        "href": "tag-altgame"
+    },
+    {
+        "label": "/spanAmare",
+        "href": "tag-amare"
+    },
+    {
+        "label": "/spanAmiga",
+        "href": "tag-amiga"
+    },
+    {
+        "label": "/spanAmstrad CPC",
+        "href": "tag-amstrad-cpc"
+    },
+    {
+        "label": "/spanAnimals",
+        "href": "tag-animals"
+    },
+    {
+        "label": "/spanAnimation",
+        "href": "tag-animation"
+    },
+    {
+        "label": "/spanAnime",
+        "href": "tag-anime"
+    },
+    {
+        "label": "/spanArcade",
+        "href": "tag-arcade"
+    },
+    {
+        "label": "/spanArchery",
+        "href": "tag-archery"
+    },
+    {
+        "label": "/spanArena Shooter",
+        "href": "tag-arena-shooter"
+    },
+    {
+        "label": "/spanartgame",
+        "href": "tag-artgame"
+    },
+    {
+        "label": "/spanartificial-intelligence",
+        "href": "tag-artificial-intelligence"
+    },
+    {
+        "label": "/spanascii",
+        "href": "tag-ascii"
+    },
+    {
+        "label": "/spanAseprite",
+        "href": "tag-aseprite"
+    },
+    {
+        "label": "/spanAsteroids",
+        "href": "tag-asteroids"
+    },
+    {
+        "label": "/spanatari",
+        "href": "tag-atari"
+    },
+    {
+        "label": "/spanAtmospheric",
+        "href": "tag-atmospheric"
+    },
+    {
+        "label": "/spanAudio",
+        "href": "tag-audio"
+    },
+    {
+        "label": "/spanAugmented Reality",
+        "href": "tag-augmented-reality"
+    },
+    {
+        "label": "/spanAutomation",
+        "href": "tag-automation"
+    },
+    {
+        "label": "/spanBaldi's Basics",
+        "href": "tag-baldi's-basics"
+    },
+    {
+        "label": "/spanBara",
+        "href": "tag-bara"
+    },
+    {
+        "label": "/spanBarfcade",
+        "href": "tag-barfcade"
+    },
+    {
+        "label": "/spanBasketball",
+        "href": "tag-basketball"
+    },
+    {
+        "label": "/spanBeat 'em up",
+        "href": "tag-beat-'em-up"
+    },
+    {
+        "label": "/spanbinaural",
+        "href": "tag-binaural"
+    },
+    {
+        "label": "/spanBitsy",
+        "href": "tag-bitsy"
+    },
+    {
+        "label": "/spanBlack and White",
+        "href": "tag-black-and-white"
+    },
+    {
+        "label": "/spanblocks",
+        "href": "tag-blocks"
+    },
+    {
+        "label": "/spanBoard Game",
+        "href": "tag-board-game"
+    },
+    {
+        "label": "/spanBoring",
+        "href": "tag-boring"
+    },
+    {
+        "label": "/spanBoss battle",
+        "href": "tag-boss-battle"
+    },
+    {
+        "label": "/spanboxing",
+        "href": "tag-boxing"
+    },
+    {
+        "label": "/spanBoys' Love",
+        "href": "tag-boys'-love"
+    },
+    {
+        "label": "/spanBrain Training",
+        "href": "tag-brain-training"
+    },
+    {
+        "label": "/spanBreakout",
+        "href": "tag-breakout"
+    },
+    {
+        "label": "/spanBullet Hell",
+        "href": "tag-bullet-hell"
+    },
+    {
+        "label": "/spanCard Game",
+        "href": "tag-card-game"
+    },
+    {
+        "label": "/spanCartoon",
+        "href": "tag-cartoon"
+    },
+    {
+        "label": "/spanCasual",
+        "href": "tag-casual"
+    },
+    {
+        "label": "/spanCats",
+        "href": "tag-cats"
+    },
+    {
+        "label": "/spanCeltic",
+        "href": "tag-celtic"
+    },
+    {
+        "label": "/spanCharacter Customization",
+        "href": "tag-character-customization"
+    },
+    {
+        "label": "/spanChess",
+        "href": "tag-chess"
+    },
+    {
+        "label": "/spanChicken",
+        "href": "tag-chicken"
+    },
+    {
+        "label": "/spanchiptune",
+        "href": "tag-chiptune"
+    },
+    {
+        "label": "/spanChristmas",
+        "href": "tag-christmas"
+    },
+    {
+        "label": "/spanCiphers",
+        "href": "tag-ciphers"
+    },
+    {
+        "label": "/spanCity Builder",
+        "href": "tag-city-builder"
+    },
+    {
+        "label": "/spanClasses",
+        "href": "tag-classes"
+    },
+    {
+        "label": "/spanClicker",
+        "href": "tag-clicker"
+    },
+    {
+        "label": "/spanColorful",
+        "href": "tag-colorful"
+    },
+    {
+        "label": "/spancombos",
+        "href": "tag-combos"
+    },
+    {
+        "label": "/spanComedy",
+        "href": "tag-comedy"
+    },
+    {
+        "label": "/spanComics",
+        "href": "tag-comics"
+    },
+    {
+        "label": "/spanComing Of Age",
+        "href": "tag-coming-of-age"
+    },
+    {
+        "label": "/spanCommodore 64",
+        "href": "tag-commodore-64"
+    },
+    {
+        "label": "/spanConstruct 2",
+        "href": "tag-construct-2"
+    },
+    {
+        "label": "/spanController",
+        "href": "tag-controller"
+    },
+    {
+        "label": "/spanCooking",
+        "href": "tag-cooking"
+    },
+    {
+        "label": "/spanCo-op",
+        "href": "tag-co-op"
+    },
+    {
+        "label": "/spanCorona SDK",
+        "href": "tag-corona-sdk"
+    },
+    {
+        "label": "/spanCozy",
+        "href": "tag-cozy"
+    },
+    {
+        "label": "/spanCrafting",
+        "href": "tag-crafting"
+    },
+    {
+        "label": "/spanCreative",
+        "href": "tag-creative"
+    },
+    {
+        "label": "/spanCreepy",
+        "href": "tag-creepy"
+    },
+    {
+        "label": "/spancreepypasta",
+        "href": "tag-creepypasta"
+    },
+    {
+        "label": "/spanCrime",
+        "href": "tag-crime"
+    },
+    {
+        "label": "/spanCult Classic",
+        "href": "tag-cult-classic"
+    },
+    {
+        "label": "/spanCute",
+        "href": "tag-cute"
+    },
+    {
+        "label": "/spanCyberpunk",
+        "href": "tag-cyberpunk"
+    },
+    {
+        "label": "/spanDark",
+        "href": "tag-dark"
+    },
+    {
+        "label": "/spanDark Fantasy",
+        "href": "tag-dark-fantasy"
+    },
+    {
+        "label": "/spanDark Humor",
+        "href": "tag-dark-humor"
+    },
+    {
+        "label": "/spanDating Sim",
+        "href": "tag-dating-sim"
+    },
+    {
+        "label": "/spandeathmatch",
+        "href": "tag-deathmatch"
+    },
+    {
+        "label": "/spanDeck Building",
+        "href": "tag-deck-building"
+    },
+    {
+        "label": "/spanDemake",
+        "href": "tag-demake"
+    },
+    {
+        "label": "/spanDesktop Pet",
+        "href": "tag-desktop-pet"
+    },
+    {
+        "label": "/spanDestruction",
+        "href": "tag-destruction"
+    },
+    {
+        "label": "/spanDetective",
+        "href": "tag-detective"
+    },
+    {
+        "label": "/spanDice",
+        "href": "tag-dice"
+    },
+    {
+        "label": "/spanDifficult",
+        "href": "tag-difficult"
+    },
+    {
+        "label": "/spanDinosaurs",
+        "href": "tag-dinosaurs"
+    },
+    {
+        "label": "/spandiscord",
+        "href": "tag-discord"
+    },
+    {
+        "label": "/spanDogs",
+        "href": "tag-dogs"
+    },
+    {
+        "label": "/spanDoom",
+        "href": "tag-doom"
+    },
+    {
+        "label": "/spanDOOM WAD",
+        "href": "tag-doom-wad"
+    },
+    {
+        "label": "/spanDOS",
+        "href": "tag-dos"
+    },
+    {
+        "label": "/spanDragons",
+        "href": "tag-dragons"
+    },
+    {
+        "label": "/spanDrawing",
+        "href": "tag-drawing"
+    },
+    {
+        "label": "/spanDreamcast",
+        "href": "tag-dreamcast"
+    },
+    {
+        "label": "/spanDreams",
+        "href": "tag-dreams"
+    },
+    {
+        "label": "/spanDriving",
+        "href": "tag-driving"
+    },
+    {
+        "label": "/spanDRM Free",
+        "href": "tag-drm-free"
+    },
+    {
+        "label": "/spanDungeon Crawler",
+        "href": "tag-dungeon-crawler"
+    },
+    {
+        "label": "/spanDungeons &amp; Dragons",
+        "href": "tag-dungeons-&amp;-dragons"
+    },
+    {
+        "label": "/spanDystopian",
+        "href": "tag-dystopian"
+    },
+    {
+        "label": "/spanEconomy",
+        "href": "tag-economy"
+    },
+    {
+        "label": "/spanEducational",
+        "href": "tag-educational"
+    },
+    {
+        "label": "/spanEmulator",
+        "href": "tag-emulator"
+    },
+    {
+        "label": "/spanEndless",
+        "href": "tag-endless"
+    },
+    {
+        "label": "/spanEndless Runner",
+        "href": "tag-endless-runner"
+    },
+    {
+        "label": "/spanEpisodic",
+        "href": "tag-episodic"
+    },
+    {
+        "label": "/spanEscape Game",
+        "href": "tag-escape-game"
+    },
+    {
+        "label": "/spanExperimental",
+        "href": "tag-experimental"
+    },
+    {
+        "label": "/spanExploration",
+        "href": "tag-exploration"
+    },
+    {
+        "label": "/spanExplosions",
+        "href": "tag-explosions"
+    },
+    {
+        "label": "/spanFairy Tale",
+        "href": "tag-fairy-tale"
+    },
+    {
+        "label": "/spanFamily Friendly",
+        "href": "tag-family-friendly"
+    },
+    {
+        "label": "/spanFangame",
+        "href": "tag-fangame"
+    },
+    {
+        "label": "/spanFantasy",
+        "href": "tag-fantasy"
+    },
+    {
+        "label": "/spanfantasy-console",
+        "href": "tag-fantasy-console"
+    },
+    {
+        "label": "/spanFarming",
+        "href": "tag-farming"
+    },
+    {
+        "label": "/spanFast-Paced",
+        "href": "tag-fast-paced"
+    },
+    {
+        "label": "/spanFeel Good",
+        "href": "tag-feel-good"
+    },
+    {
+        "label": "/spanFemale Protagonist",
+        "href": "tag-female-protagonist"
+    },
+    {
+        "label": "/spanFighting",
+        "href": "tag-fighting"
+    },
+    {
+        "label": "/spanfilipino",
+        "href": "tag-filipino"
+    },
+    {
+        "label": "/spanFirst-Person",
+        "href": "tag-first-person"
+    },
+    {
+        "label": "/spanFishing",
+        "href": "tag-fishing"
+    },
+    {
+        "label": "/spanFlappy Bird",
+        "href": "tag-flappy-bird"
+    },
+    {
+        "label": "/spanflat-shading",
+        "href": "tag-flat-shading"
+    },
+    {
+        "label": "/spanFlight",
+        "href": "tag-flight"
+    },
+    {
+        "label": "/spanFlying",
+        "href": "tag-flying"
+    },
+    {
+        "label": "/spanFMV",
+        "href": "tag-fmv"
+    },
+    {
+        "label": "/spanFive Nights at Freddy's",
+        "href": "tag-five-nights-at-freddy's"
+    },
+    {
+        "label": "/spanFriday Night Funkin' (FNF)",
+        "href": "tag-friday-night-funkin'-(fnf)"
+    },
+    {
+        "label": "/spanFolklore",
+        "href": "tag-folklore"
+    },
+    {
+        "label": "/spanFood",
+        "href": "tag-food"
+    },
+    {
+        "label": "/spanFootball",
+        "href": "tag-football"
+    },
+    {
+        "label": "/spanForest",
+        "href": "tag-forest"
+    },
+    {
+        "label": "/spanFPS",
+        "href": "tag-fps"
+    },
+    {
+        "label": "/spanFPS Platformer",
+        "href": "tag-fps-platformer"
+    },
+    {
+        "label": "/spanFrogs",
+        "href": "tag-frogs"
+    },
+    {
+        "label": "/spanFunny",
+        "href": "tag-funny"
+    },
+    {
+        "label": "/spanFurry",
+        "href": "tag-furry"
+    },
+    {
+        "label": "/spanFuturistic",
+        "href": "tag-futuristic"
+    },
+    {
+        "label": "/spanGacha",
+        "href": "tag-gacha"
+    },
+    {
+        "label": "/spanGame Boy",
+        "href": "tag-game-boy"
+    },
+    {
+        "label": "/spanGame Boy Advance",
+        "href": "tag-game-boy-advance"
+    },
+    {
+        "label": "/spanGame Boy ROM",
+        "href": "tag-game-boy-rom"
+    },
+    {
+        "label": "/spanGame Design",
+        "href": "tag-game-design"
+    },
+    {
+        "label": "/spanGameMaker",
+        "href": "tag-gamemaker"
+    },
+    {
+        "label": "/spangamepad",
+        "href": "tag-gamepad"
+    },
+    {
+        "label": "/spanGardening",
+        "href": "tag-gardening"
+    },
+    {
+        "label": "/spanGay",
+        "href": "tag-gay"
+    },
+    {
+        "label": "/spanGBJam",
+        "href": "tag-gbjam"
+    },
+    {
+        "label": "/spanGender",
+        "href": "tag-gender"
+    },
+    {
+        "label": "/spanGenerator",
+        "href": "tag-generator"
+    },
+    {
+        "label": "/spanggj15",
+        "href": "tag-ggj15"
+    },
+    {
+        "label": "/spanGlobal Game Jam 2020",
+        "href": "tag-global-game-jam-2020"
+    },
+    {
+        "label": "/spanGhosts",
+        "href": "tag-ghosts"
+    },
+    {
+        "label": "/spanGitHub",
+        "href": "tag-github"
+    },
+    {
+        "label": "/spanglitch",
+        "href": "tag-glitch"
+    },
+    {
+        "label": "/spanGlobal Game Jam",
+        "href": "tag-global-game-jam"
+    },
+    {
+        "label": "/spanGame Maker's Toolkit Jam",
+        "href": "tag-game-maker's-toolkit-jam"
+    },
+    {
+        "label": "/spanGodot",
+        "href": "tag-godot"
+    },
+    {
+        "label": "/spanGolf",
+        "href": "tag-golf"
+    },
+    {
+        "label": "/spanGore",
+        "href": "tag-gore"
+    },
+    {
+        "label": "/spanGorilla Tag",
+        "href": "tag-gorilla-tag"
+    },
+    {
+        "label": "/spanGothic",
+        "href": "tag-gothic"
+    },
+    {
+        "label": "/spanGravity",
+        "href": "tag-gravity"
+    },
+    {
+        "label": "/spanGrayscale",
+        "href": "tag-grayscale"
+    },
+    {
+        "label": "/spanHack and Slash",
+        "href": "tag-hack-and-slash"
+    },
+    {
+        "label": "/spanHacking",
+        "href": "tag-hacking"
+    },
+    {
+        "label": "/spanHalloween",
+        "href": "tag-halloween"
+    },
+    {
+        "label": "/spanHand-drawn",
+        "href": "tag-hand-drawn"
+    },
+    {
+        "label": "/spanHeist",
+        "href": "tag-heist"
+    },
+    {
+        "label": "/spanHex Based",
+        "href": "tag-hex-based"
+    },
+    {
+        "label": "/spanHidden Object",
+        "href": "tag-hidden-object"
+    },
+    {
+        "label": "/spanHigh Score",
+        "href": "tag-high-score"
+    },
+    {
+        "label": "/spanHistorical",
+        "href": "tag-historical"
+    },
+    {
+        "label": "/spanHomebrew",
+        "href": "tag-homebrew"
+    },
+    {
+        "label": "/spanHorrible",
+        "href": "tag-horrible"
+    },
+    {
+        "label": "/spanHorror",
+        "href": "tag-horror"
+    },
+    {
+        "label": "/spanHorses",
+        "href": "tag-horses"
+    },
+    {
+        "label": "/spanHyperCard",
+        "href": "tag-hypercard"
+    },
+    {
+        "label": "/spanIdle",
+        "href": "tag-idle"
+    },
+    {
+        "label": "/spanImmersive",
+        "href": "tag-immersive"
+    },
+    {
+        "label": "/spanIncredibox",
+        "href": "tag-incredibox"
+    },
+    {
+        "label": "/spanIncremental",
+        "href": "tag-incremental"
+    },
+    {
+        "label": "/spanIndie",
+        "href": "tag-indie"
+    },
+    {
+        "label": "/spaninfinite-runner",
+        "href": "tag-infinite-runner"
+    },
+    {
+        "label": "/spanInstrument",
+        "href": "tag-instrument"
+    },
+    {
+        "label": "/spanInteractive Fiction",
+        "href": "tag-interactive-fiction"
+    },
+    {
+        "label": "/spanInternet",
+        "href": "tag-internet"
+    },
+    {
+        "label": "/spanIsometric",
+        "href": "tag-isometric"
+    },
+    {
+        "label": "/spanItch Funding",
+        "href": "tag-itch-funding"
+    },
+    {
+        "label": "/spanjob-system",
+        "href": "tag-job-system"
+    },
+    {
+        "label": "/spanJRPG",
+        "href": "tag-jrpg"
+    },
+    {
+        "label": "/spanjumping",
+        "href": "tag-jumping"
+    },
+    {
+        "label": "/spanKickstarter",
+        "href": "tag-kickstarter"
+    },
+    {
+        "label": "/spankinect",
+        "href": "tag-kinect"
+    },
+    {
+        "label": "/spanKinetic Novel",
+        "href": "tag-kinetic-novel"
+    },
+    {
+        "label": "/spanKung Fu",
+        "href": "tag-kung-fu"
+    },
+    {
+        "label": "/spanLeap Motion",
+        "href": "tag-leap-motion"
+    },
+    {
+        "label": "/spanLesbian",
+        "href": "tag-lesbian"
+    },
+    {
+        "label": "/spanLGBT",
+        "href": "tag-lgbt"
+    },
+    {
+        "label": "/spanLGBTQIA",
+        "href": "tag-lgbtqia"
+    },
+    {
+        "label": "/spanlibGDX",
+        "href": "tag-libgdx"
+    },
+    {
+        "label": "/spanLife Simulation",
+        "href": "tag-life-simulation"
+    },
+    {
+        "label": "/spanLiminal space",
+        "href": "tag-liminal-space"
+    },
+    {
+        "label": "/spanlive-action",
+        "href": "tag-live-action"
+    },
+    {
+        "label": "/spanLocal Co-Op",
+        "href": "tag-local-co-op"
+    },
+    {
+        "label": "/spanLocal multiplayer",
+        "href": "tag-local-multiplayer"
+    },
+    {
+        "label": "/spanLo-fi",
+        "href": "tag-lo-fi"
+    },
+    {
+        "label": "/spanlone-survivor",
+        "href": "tag-lone-survivor"
+    },
+    {
+        "label": "/spanLoot",
+        "href": "tag-loot"
+    },
+    {
+        "label": "/spanL\u00d6VE",
+        "href": "tag-l\u00f6ve"
+    },
+    {
+        "label": "/spanLovecraftian Horror",
+        "href": "tag-lovecraftian-horror"
+    },
+    {
+        "label": "/spanLow-poly",
+        "href": "tag-low-poly"
+    },
+    {
+        "label": "/spanLOWREZJAM",
+        "href": "tag-lowrezjam"
+    },
+    {
+        "label": "/spanLudum Dare",
+        "href": "tag-ludum-dare"
+    },
+    {
+        "label": "/spanLudum Dare 29",
+        "href": "tag-ludum-dare-29"
+    },
+    {
+        "label": "/spanLudum Dare 30",
+        "href": "tag-ludum-dare-30"
+    },
+    {
+        "label": "/spanLudum Dare 31",
+        "href": "tag-ludum-dare-31"
+    },
+    {
+        "label": "/spanLudum Dare 32",
+        "href": "tag-ludum-dare-32"
+    },
+    {
+        "label": "/spanLudum Dare 33",
+        "href": "tag-ludum-dare-33"
+    },
+    {
+        "label": "/spanLudum Dare 34",
+        "href": "tag-ludum-dare-34"
+    },
+    {
+        "label": "/spanLudum Dare 35",
+        "href": "tag-ludum-dare-35"
+    },
+    {
+        "label": "/spanLudum Dare 36",
+        "href": "tag-ludum-dare-36"
+    },
+    {
+        "label": "/spanLudum Dare 37",
+        "href": "tag-ludum-dare-37"
+    },
+    {
+        "label": "/spanLudum Dare 38",
+        "href": "tag-ludum-dare-38"
+    },
+    {
+        "label": "/spanLudum Dare 39",
+        "href": "tag-ludum-dare-39"
+    },
+    {
+        "label": "/spanLudum Dare 40",
+        "href": "tag-ludum-dare-40"
+    },
+    {
+        "label": "/spanLudum Dare 41",
+        "href": "tag-ludum-dare-41"
+    },
+    {
+        "label": "/spanLudum Dare 42",
+        "href": "tag-ludum-dare-42"
+    },
+    {
+        "label": "/spanLudum Dare 43",
+        "href": "tag-ludum-dare-43"
+    },
+    {
+        "label": "/spanLudum Dare 44",
+        "href": "tag-ludum-dare-44"
+    },
+    {
+        "label": "/spanLudum Dare 45",
+        "href": "tag-ludum-dare-45"
+    },
+    {
+        "label": "/spanLudum Dare 46",
+        "href": "tag-ludum-dare-46"
+    },
+    {
+        "label": "/spanLudum Dare 47",
+        "href": "tag-ludum-dare-47"
+    },
+    {
+        "label": "/spanLudum Dare 48",
+        "href": "tag-ludum-dare-48"
+    },
+    {
+        "label": "/spanLudum Dare 49",
+        "href": "tag-ludum-dare-49"
+    },
+    {
+        "label": "/spanLudum Dare 50",
+        "href": "tag-ludum-dare-50"
+    },
+    {
+        "label": "/spanLudum Dare 51",
+        "href": "tag-ludum-dare-51"
+    },
+    {
+        "label": "/spanLudum Dare 52",
+        "href": "tag-ludum-dare-52"
+    },
+    {
+        "label": "/spanLudum Dare 53",
+        "href": "tag-ludum-dare-53"
+    },
+    {
+        "label": "/spanLudum Dare 54",
+        "href": "tag-ludum-dare-54"
+    },
+    {
+        "label": "/spanLudum Dare 55",
+        "href": "tag-ludum-dare-55"
+    },
+    {
+        "label": "/spanLudum Dare 56",
+        "href": "tag-ludum-dare-56"
+    },
+    {
+        "label": "/spanMagic",
+        "href": "tag-magic"
+    },
+    {
+        "label": "/spanMagical Realism",
+        "href": "tag-magical-realism"
+    },
+    {
+        "label": "/spanMale protagonist",
+        "href": "tag-male-protagonist"
+    },
+    {
+        "label": "/spanManagement",
+        "href": "tag-management"
+    },
+    {
+        "label": "/spanManga",
+        "href": "tag-manga"
+    },
+    {
+        "label": "/spanmashup",
+        "href": "tag-mashup"
+    },
+    {
+        "label": "/spanMassively multiplayer",
+        "href": "tag-massively-multiplayer"
+    },
+    {
+        "label": "/spanMath",
+        "href": "tag-math"
+    },
+    {
+        "label": "/spanmaze",
+        "href": "tag-maze"
+    },
+    {
+        "label": "/spanMeaningful Choices",
+        "href": "tag-meaningful-choices"
+    },
+    {
+        "label": "/spanMechs",
+        "href": "tag-mechs"
+    },
+    {
+        "label": "/spanMedieval",
+        "href": "tag-medieval"
+    },
+    {
+        "label": "/spanMega Drive",
+        "href": "tag-mega-drive"
+    },
+    {
+        "label": "/spanMeme",
+        "href": "tag-meme"
+    },
+    {
+        "label": "/spanmemoir",
+        "href": "tag-memoir"
+    },
+    {
+        "label": "/spanMental Health",
+        "href": "tag-mental-health"
+    },
+    {
+        "label": "/spanMetroidvania",
+        "href": "tag-metroidvania"
+    },
+    {
+        "label": "/spanMIDI",
+        "href": "tag-midi"
+    },
+    {
+        "label": "/spanmind-bending",
+        "href": "tag-mind-bending"
+    },
+    {
+        "label": "/spanMinecraft",
+        "href": "tag-minecraft"
+    },
+    {
+        "label": "/spanMinesweeper",
+        "href": "tag-minesweeper"
+    },
+    {
+        "label": "/spanminigames",
+        "href": "tag-minigames"
+    },
+    {
+        "label": "/spanMinimalist",
+        "href": "tag-minimalist"
+    },
+    {
+        "label": "/spanMMORPG",
+        "href": "tag-mmorpg"
+    },
+    {
+        "label": "/spanModdable",
+        "href": "tag-moddable"
+    },
+    {
+        "label": "/spanModeling",
+        "href": "tag-modeling"
+    },
+    {
+        "label": "/spanmoe",
+        "href": "tag-moe"
+    },
+    {
+        "label": "/spanMonsters",
+        "href": "tag-monsters"
+    },
+    {
+        "label": "/spanMountains",
+        "href": "tag-mountains"
+    },
+    {
+        "label": "/spanMouse only",
+        "href": "tag-mouse-only"
+    },
+    {
+        "label": "/spanMovement Shooter",
+        "href": "tag-movement-shooter"
+    },
+    {
+        "label": "/spanMS-DOS",
+        "href": "tag-ms-dos"
+    },
+    {
+        "label": "/spanMSX",
+        "href": "tag-msx"
+    },
+    {
+        "label": "/spanMultiplayer",
+        "href": "tag-multiplayer"
+    },
+    {
+        "label": "/spanMultiple Endings",
+        "href": "tag-multiple-endings"
+    },
+    {
+        "label": "/spanMusic",
+        "href": "tag-music"
+    },
+    {
+        "label": "/spanMusic Production",
+        "href": "tag-music-production"
+    },
+    {
+        "label": "/spanMy First Game Jam",
+        "href": "tag-my-first-game-jam"
+    },
+    {
+        "label": "/spanMystery",
+        "href": "tag-mystery"
+    },
+    {
+        "label": "/spanmythology",
+        "href": "tag-mythology"
+    },
+    {
+        "label": "/spanNarrative",
+        "href": "tag-narrative"
+    },
+    {
+        "label": "/spannature",
+        "href": "tag-nature"
+    },
+    {
+        "label": "/spanNeon",
+        "href": "tag-neon"
+    },
+    {
+        "label": "/spanNES (Nintendo Entertainment System)",
+        "href": "tag-nes-(nintendo-entertainment-system)"
+    },
+    {
+        "label": "/spanNES ROM",
+        "href": "tag-nes-rom"
+    },
+    {
+        "label": "/spanNinja",
+        "href": "tag-ninja"
+    },
+    {
+        "label": "/spanNintendo 64",
+        "href": "tag-nintendo-64"
+    },
+    {
+        "label": "/spanNo AI",
+        "href": "tag-no-ai"
+    },
+    {
+        "label": "/spanNoir",
+        "href": "tag-noir"
+    },
+    {
+        "label": "/spannon-eucledian",
+        "href": "tag-non-eucledian"
+    },
+    {
+        "label": "/spanNonlinear",
+        "href": "tag-nonlinear"
+    },
+    {
+        "label": "/spanNonogram",
+        "href": "tag-nonogram"
+    },
+    {
+        "label": "/spanNon violent",
+        "href": "tag-non-violent"
+    },
+    {
+        "label": "/spanNorse",
+        "href": "tag-norse"
+    },
+    {
+        "label": "/spannorway",
+        "href": "tag-norway"
+    },
+    {
+        "label": "/spanOculus Quest",
+        "href": "tag-oculus-quest"
+    },
+    {
+        "label": "/spanOculus Rift",
+        "href": "tag-oculus-rift"
+    },
+    {
+        "label": "/spanone-button",
+        "href": "tag-one-button"
+    },
+    {
+        "label": "/spanone-hit-kill",
+        "href": "tag-one-hit-kill"
+    },
+    {
+        "label": "/spanOn-Rails Shooter",
+        "href": "tag-on-rails-shooter"
+    },
+    {
+        "label": "/spanOpen Source",
+        "href": "tag-open-source"
+    },
+    {
+        "label": "/spanOpen World",
+        "href": "tag-open-world"
+    },
+    {
+        "label": "/spanOtome",
+        "href": "tag-otome"
+    },
+    {
+        "label": "/spanPainting",
+        "href": "tag-painting"
+    },
+    {
+        "label": "/spanparallax",
+        "href": "tag-parallax"
+    },
+    {
+        "label": "/spanParkour",
+        "href": "tag-parkour"
+    },
+    {
+        "label": "/spanParody",
+        "href": "tag-parody"
+    },
+    {
+        "label": "/spanparty-game",
+        "href": "tag-party-game"
+    },
+    {
+        "label": "/spanpastel",
+        "href": "tag-pastel"
+    },
+    {
+        "label": "/spanPeriod Piece",
+        "href": "tag-period-piece"
+    },
+    {
+        "label": "/spanPerma Death",
+        "href": "tag-perma-death"
+    },
+    {
+        "label": "/spanPerspective",
+        "href": "tag-perspective"
+    },
+    {
+        "label": "/spanPhotorealistic",
+        "href": "tag-photorealistic"
+    },
+    {
+        "label": "/spanPhysics",
+        "href": "tag-physics"
+    },
+    {
+        "label": "/spanPICO-8",
+        "href": "tag-pico-8"
+    },
+    {
+        "label": "/spanPicross",
+        "href": "tag-picross"
+    },
+    {
+        "label": "/spanPinball",
+        "href": "tag-pinball"
+    },
+    {
+        "label": "/spanPirates",
+        "href": "tag-pirates"
+    },
+    {
+        "label": "/spanPixel Art",
+        "href": "tag-pixel-art"
+    },
+    {
+        "label": "/spanPizza Tower",
+        "href": "tag-pizza-tower"
+    },
+    {
+        "label": "/spanPlatformer",
+        "href": "tag-platformer"
+    },
+    {
+        "label": "/spanPlaydate",
+        "href": "tag-playdate"
+    },
+    {
+        "label": "/spanPoint &amp; Click",
+        "href": "tag-point-&amp;-click"
+    },
+    {
+        "label": "/spanPost-apocalyptic",
+        "href": "tag-post-apocalyptic"
+    },
+    {
+        "label": "/spanProcedural Generation",
+        "href": "tag-procedural-generation"
+    },
+    {
+        "label": "/spanPROCJAM",
+        "href": "tag-procjam"
+    },
+    {
+        "label": "/spanPrototype",
+        "href": "tag-prototype"
+    },
+    {
+        "label": "/spanPlaystation Portable",
+        "href": "tag-playstation-portable"
+    },
+    {
+        "label": "/spanPSX (PlayStation)",
+        "href": "tag-psx-(playstation)"
+    },
+    {
+        "label": "/spanpsychedelic",
+        "href": "tag-psychedelic"
+    },
+    {
+        "label": "/spanPsychological Horror",
+        "href": "tag-psychological-horror"
+    },
+    {
+        "label": "/spanPuzzle",
+        "href": "tag-puzzle"
+    },
+    {
+        "label": "/spanPuzzle-Platformer",
+        "href": "tag-puzzle-platformer"
+    },
+    {
+        "label": "/spanPuzzleScript",
+        "href": "tag-puzzlescript"
+    },
+    {
+        "label": "/spanPvP",
+        "href": "tag-pvp"
+    },
+    {
+        "label": "/spanQueer",
+        "href": "tag-queer"
+    },
+    {
+        "label": "/spanQuiz",
+        "href": "tag-quiz"
+    },
+    {
+        "label": "/spanRacing",
+        "href": "tag-racing"
+    },
+    {
+        "label": "/spanRailroad",
+        "href": "tag-railroad"
+    },
+    {
+        "label": "/spanReal-Time",
+        "href": "tag-real-time"
+    },
+    {
+        "label": "/spanReal time strategy",
+        "href": "tag-real-time-strategy"
+    },
+    {
+        "label": "/spanrelationship",
+        "href": "tag-relationship"
+    },
+    {
+        "label": "/spanRelaxing",
+        "href": "tag-relaxing"
+    },
+    {
+        "label": "/spanRemake",
+        "href": "tag-remake"
+    },
+    {
+        "label": "/spanRen'Py",
+        "href": "tag-ren'py"
+    },
+    {
+        "label": "/spanRetro",
+        "href": "tag-retro"
+    },
+    {
+        "label": "/spanRhythm",
+        "href": "tag-rhythm"
+    },
+    {
+        "label": "/spanRoadtrip",
+        "href": "tag-roadtrip"
+    },
+    {
+        "label": "/spanRobots",
+        "href": "tag-robots"
+    },
+    {
+        "label": "/spanRoguelike",
+        "href": "tag-roguelike"
+    },
+    {
+        "label": "/spanRoguelite",
+        "href": "tag-roguelite"
+    },
+    {
+        "label": "/spanRomance",
+        "href": "tag-romance"
+    },
+    {
+        "label": "/spanRotation",
+        "href": "tag-rotation"
+    },
+    {
+        "label": "/spanRole Playing",
+        "href": "tag-role-playing"
+    },
+    {
+        "label": "/spanRPG Maker",
+        "href": "tag-rpg-maker"
+    },
+    {
+        "label": "/spanRPG Maker MV",
+        "href": "tag-rpg-maker-mv"
+    },
+    {
+        "label": "/spanRPG Maker MZ",
+        "href": "tag-rpg-maker-mz"
+    },
+    {
+        "label": "/spanRunner",
+        "href": "tag-runner"
+    },
+    {
+        "label": "/spanSailing",
+        "href": "tag-sailing"
+    },
+    {
+        "label": "/spanSandbox",
+        "href": "tag-sandbox"
+    },
+    {
+        "label": "/spansatire",
+        "href": "tag-satire"
+    },
+    {
+        "label": "/spanSci-fi",
+        "href": "tag-sci-fi"
+    },
+    {
+        "label": "/spanScore Attack",
+        "href": "tag-score-attack"
+    },
+    {
+        "label": "/spanscreensaver",
+        "href": "tag-screensaver"
+    },
+    {
+        "label": "/spansecrets",
+        "href": "tag-secrets"
+    },
+    {
+        "label": "/spanSega Genesis",
+        "href": "tag-sega-genesis"
+    },
+    {
+        "label": "/spanSFML",
+        "href": "tag-sfml"
+    },
+    {
+        "label": "/spanShaders",
+        "href": "tag-shaders"
+    },
+    {
+        "label": "/spanShadows",
+        "href": "tag-shadows"
+    },
+    {
+        "label": "/spanSHARECART1000",
+        "href": "tag-sharecart1000"
+    },
+    {
+        "label": "/spanShoot 'Em Up",
+        "href": "tag-shoot-'em-up"
+    },
+    {
+        "label": "/spanShooter",
+        "href": "tag-shooter"
+    },
+    {
+        "label": "/spanShort",
+        "href": "tag-short"
+    },
+    {
+        "label": "/spanSide Scroller",
+        "href": "tag-side-scroller"
+    },
+    {
+        "label": "/spanSimple",
+        "href": "tag-simple"
+    },
+    {
+        "label": "/spanSimulation",
+        "href": "tag-simulation"
+    },
+    {
+        "label": "/spanSingleplayer",
+        "href": "tag-singleplayer"
+    },
+    {
+        "label": "/spanSiren Head",
+        "href": "tag-siren-head"
+    },
+    {
+        "label": "/spansitting-simulator",
+        "href": "tag-sitting-simulator"
+    },
+    {
+        "label": "/spanSkating",
+        "href": "tag-skating"
+    },
+    {
+        "label": "/spanSkeletons",
+        "href": "tag-skeletons"
+    },
+    {
+        "label": "/spanSlasher",
+        "href": "tag-slasher"
+    },
+    {
+        "label": "/spanSlice Of Life",
+        "href": "tag-slice-of-life"
+    },
+    {
+        "label": "/spanSlime",
+        "href": "tag-slime"
+    },
+    {
+        "label": "/spanSoccer",
+        "href": "tag-soccer"
+    },
+    {
+        "label": "/spanSokoban",
+        "href": "tag-sokoban"
+    },
+    {
+        "label": "/spansolitaire",
+        "href": "tag-solitaire"
+    },
+    {
+        "label": "/spanSouls-like",
+        "href": "tag-souls-like"
+    },
+    {
+        "label": "/spanSoundtoy",
+        "href": "tag-soundtoy"
+    },
+    {
+        "label": "/spansourcecode",
+        "href": "tag-sourcecode"
+    },
+    {
+        "label": "/spanSpace",
+        "href": "tag-space"
+    },
+    {
+        "label": "/spanSpace Sim",
+        "href": "tag-space-sim"
+    },
+    {
+        "label": "/spanSpeedrun",
+        "href": "tag-speedrun"
+    },
+    {
+        "label": "/spanSplit Screen",
+        "href": "tag-split-screen"
+    },
+    {
+        "label": "/spanSpooky",
+        "href": "tag-spooky"
+    },
+    {
+        "label": "/spanSpoopy",
+        "href": "tag-spoopy"
+    },
+    {
+        "label": "/spanSports",
+        "href": "tag-sports"
+    },
+    {
+        "label": "/spanSprunki",
+        "href": "tag-sprunki"
+    },
+    {
+        "label": "/spanStealth",
+        "href": "tag-stealth"
+    },
+    {
+        "label": "/spanSteampunk",
+        "href": "tag-steampunk"
+    },
+    {
+        "label": "/spanStencyl",
+        "href": "tag-stencyl"
+    },
+    {
+        "label": "/spanstop-motion",
+        "href": "tag-stop-motion"
+    },
+    {
+        "label": "/spanStory Rich",
+        "href": "tag-story-rich"
+    },
+    {
+        "label": "/spanStrategy",
+        "href": "tag-strategy"
+    },
+    {
+        "label": "/spanStrategy RPG",
+        "href": "tag-strategy-rpg"
+    },
+    {
+        "label": "/spanStreaming",
+        "href": "tag-streaming"
+    },
+    {
+        "label": "/spanSuika Game",
+        "href": "tag-suika-game"
+    },
+    {
+        "label": "/spanSuperhero",
+        "href": "tag-superhero"
+    },
+    {
+        "label": "/spansupernatural",
+        "href": "tag-supernatural"
+    },
+    {
+        "label": "/spanSuperpowers",
+        "href": "tag-superpowers"
+    },
+    {
+        "label": "/spanSurreal",
+        "href": "tag-surreal"
+    },
+    {
+        "label": "/spanSurvival",
+        "href": "tag-survival"
+    },
+    {
+        "label": "/spanSurvival Horror",
+        "href": "tag-survival-horror"
+    },
+    {
+        "label": "/spanSurvivor-like",
+        "href": "tag-survivor-like"
+    },
+    {
+        "label": "/spansuspense",
+        "href": "tag-suspense"
+    },
+    {
+        "label": "/spanSwords",
+        "href": "tag-swords"
+    },
+    {
+        "label": "/spanSynthwave",
+        "href": "tag-synthwave"
+    },
+    {
+        "label": "/spantablet",
+        "href": "tag-tablet"
+    },
+    {
+        "label": "/spanTactical",
+        "href": "tag-tactical"
+    },
+    {
+        "label": "/spanTactical RPG",
+        "href": "tag-tactical-rpg"
+    },
+    {
+        "label": "/spanTanks",
+        "href": "tag-tanks"
+    },
+    {
+        "label": "/spanTarot",
+        "href": "tag-tarot"
+    },
+    {
+        "label": "/spanTeam-Based",
+        "href": "tag-team-based"
+    },
+    {
+        "label": "/spanTennis",
+        "href": "tag-tennis"
+    },
+    {
+        "label": "/spanTentacles",
+        "href": "tag-tentacles"
+    },
+    {
+        "label": "/spanTetris",
+        "href": "tag-tetris"
+    },
+    {
+        "label": "/spanText based",
+        "href": "tag-text-based"
+    },
+    {
+        "label": "/spanThird Person",
+        "href": "tag-third-person"
+    },
+    {
+        "label": "/spanThird-Person Shooter",
+        "href": "tag-third-person-shooter"
+    },
+    {
+        "label": "/spanThriller",
+        "href": "tag-thriller"
+    },
+    {
+        "label": "/spanTIC-80",
+        "href": "tag-tic-80"
+    },
+    {
+        "label": "/spanTime Attack",
+        "href": "tag-time-attack"
+    },
+    {
+        "label": "/spanTime Travel",
+        "href": "tag-time-travel"
+    },
+    {
+        "label": "/spanTop-Down",
+        "href": "tag-top-down"
+    },
+    {
+        "label": "/spanTop Down Adventure",
+        "href": "tag-top-down-adventure"
+    },
+    {
+        "label": "/spanTop down shooter",
+        "href": "tag-top-down-shooter"
+    },
+    {
+        "label": "/spanTouch-Friendly",
+        "href": "tag-touch-friendly"
+    },
+    {
+        "label": "/spanTouhou",
+        "href": "tag-touhou"
+    },
+    {
+        "label": "/spanTower Defense",
+        "href": "tag-tower-defense"
+    },
+    {
+        "label": "/spanTrading",
+        "href": "tag-trading"
+    },
+    {
+        "label": "/spanTrains",
+        "href": "tag-trains"
+    },
+    {
+        "label": "/spanTransgender",
+        "href": "tag-transgender"
+    },
+    {
+        "label": "/spanTraps",
+        "href": "tag-traps"
+    },
+    {
+        "label": "/spantrashcore",
+        "href": "tag-trashcore"
+    },
+    {
+        "label": "/spanTrijam",
+        "href": "tag-trijam"
+    },
+    {
+        "label": "/spanTrivia",
+        "href": "tag-trivia"
+    },
+    {
+        "label": "/spanTurboGrafx-16",
+        "href": "tag-turbografx-16"
+    },
+    {
+        "label": "/spanTurn-based",
+        "href": "tag-turn-based"
+    },
+    {
+        "label": "/spanTurn-Based Combat",
+        "href": "tag-turn-based-combat"
+    },
+    {
+        "label": "/spanTurn-based Strategy",
+        "href": "tag-turn-based-strategy"
+    },
+    {
+        "label": "/spanTutorial",
+        "href": "tag-tutorial"
+    },
+    {
+        "label": "/spanTwine",
+        "href": "tag-twine"
+    },
+    {
+        "label": "/spanTwin Stick Shooter",
+        "href": "tag-twin-stick-shooter"
+    },
+    {
+        "label": "/spanTwo colors",
+        "href": "tag-two-colors"
+    },
+    {
+        "label": "/spanTwo Player",
+        "href": "tag-two-player"
+    },
+    {
+        "label": "/spanTycoon",
+        "href": "tag-tycoon"
+    },
+    {
+        "label": "/spanTyping",
+        "href": "tag-typing"
+    },
+    {
+        "label": "/spanTyranoBuilder",
+        "href": "tag-tyranobuilder"
+    },
+    {
+        "label": "/spanUndertale",
+        "href": "tag-undertale"
+    },
+    {
+        "label": "/spanunderwater",
+        "href": "tag-underwater"
+    },
+    {
+        "label": "/spanUnicorns",
+        "href": "tag-unicorns"
+    },
+    {
+        "label": "/spanUnity",
+        "href": "tag-unity"
+    },
+    {
+        "label": "/spanUnreal Engine",
+        "href": "tag-unreal-engine"
+    },
+    {
+        "label": "/spanupgrades",
+        "href": "tag-upgrades"
+    },
+    {
+        "label": "/spanUrban",
+        "href": "tag-urban"
+    },
+    {
+        "label": "/spanVampire",
+        "href": "tag-vampire"
+    },
+    {
+        "label": "/spanVector",
+        "href": "tag-vector"
+    },
+    {
+        "label": "/spanVehicles",
+        "href": "tag-vehicles"
+    },
+    {
+        "label": "/spanVersus",
+        "href": "tag-versus"
+    },
+    {
+        "label": "/spanVIC-20",
+        "href": "tag-vic-20"
+    },
+    {
+        "label": "/spanVictorian",
+        "href": "tag-victorian"
+    },
+    {
+        "label": "/spanvideo",
+        "href": "tag-video"
+    },
+    {
+        "label": "/spanViolent",
+        "href": "tag-violent"
+    },
+    {
+        "label": "/spanVirtual Pet",
+        "href": "tag-virtual-pet"
+    },
+    {
+        "label": "/spanVirtual Reality (VR)",
+        "href": "tag-virtual-reality-(vr)"
+    },
+    {
+        "label": "/spanVisualization",
+        "href": "tag-visualization"
+    },
+    {
+        "label": "/spanVisual Novel",
+        "href": "tag-visual-novel"
+    },
+    {
+        "label": "/spanVoice Acting",
+        "href": "tag-voice-acting"
+    },
+    {
+        "label": "/spanvoice-controlled",
+        "href": "tag-voice-controlled"
+    },
+    {
+        "label": "/spanVoxel",
+        "href": "tag-voxel"
+    },
+    {
+        "label": "/spanVRChat",
+        "href": "tag-vrchat"
+    },
+    {
+        "label": "/spanWalking simulator",
+        "href": "tag-walking-simulator"
+    },
+    {
+        "label": "/spanWar",
+        "href": "tag-war"
+    },
+    {
+        "label": "/spanwatercolor",
+        "href": "tag-watercolor"
+    },
+    {
+        "label": "/spanweird",
+        "href": "tag-weird"
+    },
+    {
+        "label": "/spanWestern",
+        "href": "tag-western"
+    },
+    {
+        "label": "/spanWild West",
+        "href": "tag-wild-west"
+    },
+    {
+        "label": "/spanWizards",
+        "href": "tag-wizards"
+    },
+    {
+        "label": "/spanWobbly",
+        "href": "tag-wobbly"
+    },
+    {
+        "label": "/spanWord game",
+        "href": "tag-word-game"
+    },
+    {
+        "label": "/spanWordle",
+        "href": "tag-wordle"
+    },
+    {
+        "label": "/spanWorking Simulator",
+        "href": "tag-working-simulator"
+    },
+    {
+        "label": "/spanWorld War I",
+        "href": "tag-world-war-i"
+    },
+    {
+        "label": "/spanWorld War II",
+        "href": "tag-world-war-ii"
+    },
+    {
+        "label": "/spanYaoi",
+        "href": "tag-yaoi"
+    },
+    {
+        "label": "/spanYuri",
+        "href": "tag-yuri"
+    },
+    {
+        "label": "/spanZero Gravity",
+        "href": "tag-zero-gravity"
+    },
+    {
+        "label": "/spanzine",
+        "href": "tag-zine"
+    },
+    {
+        "label": "/spanZombies",
+        "href": "tag-zombies"
+    },
+    {
+        "label": "/spanZX Spectrum",
+        "href": "tag-zx-spectrum"
+    }
+]

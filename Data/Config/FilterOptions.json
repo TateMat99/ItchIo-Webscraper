@@ -1,0 +1,270 @@
+[
+    {
+        "label": "/spanPhone_browser",
+        "href": "platform-mobile-web"
+    },
+    {
+        "label": "/spanPlay_in_browser",
+        "href": "platform-web"
+    },
+    {
+        "label": "/spanWindows",
+        "href": "platform-windows"
+    },
+    {
+        "label": "/spanmacOS",
+        "href": "platform-osx"
+    },
+    {
+        "label": "/spanLinux",
+        "href": "platform-linux"
+    },
+    {
+        "label": "/spanAndroid",
+        "href": "platform-android"
+    },
+    {
+        "label": "/spaniOS",
+        "href": "platform-ios"
+    },
+    {
+        "label": "/spanFree",
+        "href": "free"
+    },
+    {
+        "label": "/spanOn_Sale",
+        "href": "on-sale"
+    },
+    {
+        "label": "/spanPaid",
+        "href": "store"
+    },
+    {
+        "label": "/span$5_or_less",
+        "href": "5-dollars-or-less"
+    },
+    {
+        "label": "/span$15_or_less",
+        "href": "15-dollars-or-less"
+    },
+    {
+        "label": "/spanLast_Day",
+        "href": "last-day"
+    },
+    {
+        "label": "/spanLast_7_days",
+        "href": "last-7-days"
+    },
+    {
+        "label": "/spanLast_30_days",
+        "href": "last-30-days"
+    },
+    {
+        "label": "/spanKeyboard",
+        "href": "input-keyboard"
+    },
+    {
+        "label": "/spanMouse",
+        "href": "input-mouse"
+    },
+    {
+        "label": "/spanXbox_controller",
+        "href": "input-x360"
+    },
+    {
+        "label": "/spanGamepad_(any)",
+        "href": "input-gamepad"
+    },
+    {
+        "label": "/spanJoystick",
+        "href": "input-joystick"
+    },
+    {
+        "label": "/spanTouchscreen",
+        "href": "input-touchscreen"
+    },
+    {
+        "label": "/spanVoice_control",
+        "href": "input-voice"
+    },
+    {
+        "label": "/spanOculus_Rift",
+        "href": "oculus-rift"
+    },
+    {
+        "label": "/spanLeap_Motion",
+        "href": "leap-motion"
+    },
+    {
+        "label": "/spanWiimote",
+        "href": "input-wiimote"
+    },
+    {
+        "label": "/spanKinect",
+        "href": "input-kinect"
+    },
+    {
+        "label": "/spanNeuroSky_Mindwave",
+        "href": "input-neurosky-mindwave"
+    },
+    {
+        "label": "/spanAccelerometer",
+        "href": "input-accelerometer"
+    },
+    {
+        "label": "/spanOSVR_(Open-Source_Virtual_Reality)",
+        "href": "osvr"
+    },
+    {
+        "label": "/spanSmartphone",
+        "href": "input-phone"
+    },
+    {
+        "label": "/spanDance_pad",
+        "href": "input-dance-pad"
+    },
+    {
+        "label": "/spanHTC_Vive",
+        "href": "input-htc-vive"
+    },
+    {
+        "label": "/spanGoogle_Daydream_VR",
+        "href": "input-daydream-vr"
+    },
+    {
+        "label": "/spanGoogle_Cardboard_VR",
+        "href": "input-cardboard-vr"
+    },
+    {
+        "label": "/spanPlaystation_controller",
+        "href": "input-playstation"
+    },
+    {
+        "label": "/spanMIDI_controller",
+        "href": "input-midi-controller"
+    },
+    {
+        "label": "/spanJoy-Con",
+        "href": "input-joy-con"
+    },
+    {
+        "label": "/spanMagic_Leap",
+        "href": "input-magic-leap"
+    },
+    {
+        "label": "/spanOculus_Quest",
+        "href": "input-oculus-quest"
+    },
+    {
+        "label": "/spanOculus_Go",
+        "href": "input-oculus-go"
+    },
+    {
+        "label": "/spanWindows_Mixed_Reality",
+        "href": "input-windows-mixed-reality"
+    },
+    {
+        "label": "/spanValve_Index",
+        "href": "input-valve-index"
+    },
+    {
+        "label": "/spanA_few_seconds",
+        "href": "duration-seconds"
+    },
+    {
+        "label": "/spanA_few_minutes",
+        "href": "duration-minutes"
+    },
+    {
+        "label": "/spanAbout_a_half-hour",
+        "href": "duration-half-hour"
+    },
+    {
+        "label": "/spanAbout_an_hour",
+        "href": "duration-hour"
+    },
+    {
+        "label": "/spanA_few_hours",
+        "href": "duration-hours"
+    },
+    {
+        "label": "/spanDays_or_more",
+        "href": "duration-days"
+    },
+    {
+        "label": "/spanLocal_multiplayer",
+        "href": "local-multiplayer"
+    },
+    {
+        "label": "/spanServer-based_networked_multiplayer",
+        "href": "multiplayer-server"
+    },
+    {
+        "label": "/spanAd-hoc_networked_multiplayer",
+        "href": "multiplayer-adhoc"
+    },
+    {
+        "label": "/spanColor-blind_friendly",
+        "href": "accessibility-colorblind"
+    },
+    {
+        "label": "/spanSubtitles",
+        "href": "accessibility-subtitles"
+    },
+    {
+        "label": "/spanConfigurable_controls",
+        "href": "accessibility-configurable-controls"
+    },
+    {
+        "label": "/spanHigh-contrast",
+        "href": "accessibility-highcontrast"
+    },
+    {
+        "label": "/spanInteractive_tutorial",
+        "href": "accessibility-tutorial"
+    },
+    {
+        "label": "/spanOne_button",
+        "href": "accessibility-one-button"
+    },
+    {
+        "label": "/spanBlind_friendly",
+        "href": "accessibility-blind"
+    },
+    {
+        "label": "/spanTextless",
+        "href": "accessibility-textless"
+    },
+    {
+        "label": "/spanHTML5",
+        "href": "html5"
+    },
+    {
+        "label": "/spanDownloadable",
+        "href": "downloadable"
+    },
+    {
+        "label": "/spanFlash",
+        "href": "flash"
+    },
+    {
+        "label": "/spanWith_Steam_keys",
+        "href": "steam-key"
+    },
+    {
+        "label": "/spanIn_game_jams",
+        "href": "in-jam"
+    },
+    {
+        "label": "/spanNot_in_game_jams",
+        "href": "exclude-jam"
+    },
+    {
+        "label": "/spanWith_demos",
+        "href": "has-demo"
+    },
+    {
+        "label": "/spanFeatured",
+        "href": "featured"
+    }
+]
