@@ -1,4 +1,4 @@
-# Trustpilot Webscraper
+# Itch.io Webscraper
 
 This project scrapes game information from the Itch.io website. It gets game details like titles, prices, platforms, and tags. The project has separate scripts to get config data, build API URLs, scrape the data, and clean it.
 
